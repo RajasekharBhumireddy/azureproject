@@ -1,0 +1,15 @@
+{
+	"name": "df-azureproject-raja",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8fe3fddb-f3bf-41e7-9f7d-8d2a8775e9e9",
+		"tenantId": "0283747c-5ff6-4c85-a3f2-b86f75ad6350"
+	}
+}
